@@ -35,3 +35,9 @@ int main() {
 
     return 0;
 }
+
+//100 sumofdigit -> 1
+// 12 sumofdigit -> 3
+// 5 sumofdigit -> 5
+// 26 sumofdigit -> 8
+// 9 sumofdigit -> 9
